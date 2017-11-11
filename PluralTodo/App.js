@@ -10,7 +10,7 @@ export default class PluralTodo extends Component {
                     task: 'Learn React Native'
                 },
                 {
-                    task: 'Learn Redux'
+                    task: 'Learn Redux Better'
                 }
             ]
         }
